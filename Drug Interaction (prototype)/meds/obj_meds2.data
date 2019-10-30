@@ -1,0 +1,5 @@
+classes = 1
+train = /raid/data2/asanogo/meds/training.csv
+valid = /raid/data2/asanogo/meds/test.csv
+names = /raid/data2/asanogo/meds/obj_meds.names
+backup = /raid/data2/asanogo/meds/backup2

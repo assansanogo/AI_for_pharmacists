@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "drugsinteraction",
+  "private_key_id": "d9abf4b96184bf2bb2e21817360a4141f958cb3a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCgRJf7WdBfWaKp\nDBBEJ/ZDnBQdlDoeTXzywgFz+c+W6ZOF1+sPNKHDjWVcQ7xKNQg2AH8WEyYehElU\nmpTmbItp3CnBPmRrYgDuD490kiWyaAVDqypqox0GRLW3QebihJsbyuAVMOPWrz99\nyMfLrBO/f4bwtmOXHDGVkwMM70XSDe3LEBvxu9Dz/BhNKpNvJG9sTVoT0gw0VgQC\npRqElgT/blOUdB595nHTKn9CxoKYEJUE++HzgqtfeGLnPPGmKzzasIsHNK2rt8SB\nkTH1LJ7cfOIfosWQGkpnfdQBs020cisbjgVrSO3rPIrwNyAYUcnFS+c52wRjjvGq\n28xJk4kTAgMBAAECggEAC8iqBBPOe7RI1B/MR7ad0iAfuoJeOOwpoQ/IBjxP7yCt\ndXcyvqN4DBDRaxSakOTlUv3RBPvTdFr1qVV/ApI940K02eiPKaDDFhM+0QC4lNg2\ndYtC9c7ty2WHQY+EPRN9nsWD7wrxNaUdCKVCoM8ThKOzyu8eKMuB5HrdYTjBQXh2\nvuxN8yOBsfhZKYzBVOvEMQZRH44ye5mYtLIcVMB0YJazEOuj8uJhfwgJ3jZrWIST\nFZobkYo43zTqofSOUcjAQsgXMa8O6EZLCza2ecUv2iGzS4LqzTQiXnhgoIuG0/Xl\n7QTgpBlEDHEn7YxiUCZtbmT/wyPoZS9eC8zUbELagQKBgQDiBzCBSn4giN52Pb3s\nJlq7PM+Aa+rXrRYdNLwyyMoeVod3mzJIRIgI0H1Xp0JR089OtBAt9jSZR25lwCnN\n9xdDuY3Wb5JffYjLl8b3jnYma3FHrSbGIBgIB2kP3e7N3aSqAae9pbNYpflpQXV6\na3LFgRjNPtgzMaFEaXV0aaOWqQKBgQC1hRe6++IN6fHU9gjDh4+PPPVyxh1/qQi0\nUYOyho6jmAVoY9zZj5f6txWEx0cMIVZVgD8V1QvINQ61PloaI3CEfOt9h5OKSNMi\nfAsGGU6uUBhZSO2Q7XHG+6HG7JQUw0jMvYXI7JWTRGtGlgSqQE/GGZGxs/r6pYt3\n9eC8QwEDWwKBgHEGr1a37YJPbw8pqMNiGpTuv8S0MmdPgnNwX3v1tDyfgHZrASXq\nPyxJNaSTWzKX/F6a5ExXhc3wTmBLS5xXJycSrr7AZC2kFLfaWgCJGMP1jlwNVgpV\nGi9JpVvt2vDPGPx6f2ryZVC7DpF3zks9V9MzzzczaeGPu9j982IXQVqhAoGBAI8h\npGWnykdIao2Pd7eehB/hZHWdLJOGWTu+bwdtvLnY3KLE49eVt7RVe51YeXhiLS58\nUsJHXOQAmllmEiw8N7PwwMwaBMfsxreRcivb9sPSmnCE5fb6lFXgA1/VGqsIlbYD\n16NokkUulRxynLkWvxCpBs5F6iiMMt5jvlMUzo6zAoGAaiBKLtW1FKb21CAUFzm2\n6WdeTOMEm8Vl0qvJVo9+2A1kTw2cXor0/WKGd85nao7InhguXkAFGHE6OREWL0Ug\nWk34LPo/cUCSWlR7aPI+eR99xiC3Ry442T0rptPT1NgNK/F4ak0KayGPEZ7glQyQ\n0QHAeHZpsbAaAmC9HBplv3o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "assansanogo@drugsinteraction.iam.gserviceaccount.com",
+  "client_id": "106442563472478933114",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/assansanogo%40drugsinteraction.iam.gserviceaccount.com"
+}
